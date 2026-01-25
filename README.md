@@ -21,8 +21,12 @@ No Windows 10/11, você pode instalar facilmente via terminal (PowerShell):
 ```powershell
 winget install ffmpeg
 
-## Como gerar o Executável
-
+📦 Como gerar o Executável
 Para criar um arquivo .exe único para distribuir:
 
+Bash
+
 py -m PyInstaller --noconsole --onefile --name="BaixarMusica" convert_ytb_mp3_v2.py
+
+
+Desenvolvido por Eder Passos 🏴‍☠️
