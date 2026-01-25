@@ -2,6 +2,8 @@
 
 Um aplicativo desktop simples e eficiente para baixar e converter vídeos do YouTube para MP3.
 
+![Preview do App](2026-01-25_01-03.png)
+
 ## 🚀 Funcionalidades
 - **Interface Gráfica:** Fácil de usar, construída com PyQt5.
 - **Conversão Automática:** Baixa e converte automaticamente para MP3.
