@@ -27,7 +27,7 @@ winget install ffmpeg
 Para criar um arquivo .exe único para distribuir:
 
 Bash
-
+py -m pip install PyQt5 yt-dlp pyinstaller
 py -m PyInstaller --noconsole --onefile --name="BaixarMusica" convert_ytb_mp3_v2.py
 
 
